@@ -1,10 +1,10 @@
 # Live Link : https://dashboard-mvp-olive.vercel.app
 
 
- id (uuid, primary key) : auto generated
- title (text) - Web security
- progress (integer) - 75
- icon_name (text) - Shield
+ id (uuid, primary key) : auto generated,
+ title (text) - Web security,
+ progress (integer) - 75,
+ icon_name (text) - Shield,
  created_at (timestamp) : auto generated
 
 
