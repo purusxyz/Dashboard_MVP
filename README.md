@@ -55,7 +55,7 @@ Framer Motion animations — Done
 
 Lucide React icons — Done
 
-Semantic HTML (<main>, <nav>, <section>, <article>) — Done
+Semantic HTML — Done
 
 Courses table in Supabase — Done
 
