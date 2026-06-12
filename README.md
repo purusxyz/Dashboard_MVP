@@ -1,6 +1,8 @@
 # Live Link : https://dashboard-mvp-olive.vercel.app
 
-
+ 
+ ## set these values in supabase 
+ 
  id (uuid, primary key) : auto generated,
  title (text) - Web security,
  progress (integer) - 75,
