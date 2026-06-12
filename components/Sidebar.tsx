@@ -9,7 +9,7 @@ export default function Sidebar() {
   const [active, setActive] = useState("Dashboard");
 
   return (
-    <nav className="hidden md:block w-64 bg-zinc-900 text-white p-4">
+    <nav className="hidden md:block w-64 bg-black border-r border-zinc-600 text-white p-4">
       {items.map((item) => (
         <div key={item} className="relative">
           {active === item && (
