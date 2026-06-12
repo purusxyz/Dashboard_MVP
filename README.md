@@ -24,7 +24,7 @@
  created_at (timestamp) : auto generated
 
 
-
+## Don't forget to disable RLS.
 
 Dark mode only theme : Done
 
