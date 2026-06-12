@@ -21,7 +21,7 @@ export default function CourseCard({ course }: { course: Course }) {
 
       <div className="relative z-10">
         <Icon size={24} />
-        <h2 className="mt-2">{course.title}</h2>
+        <h2 className="mt-2 text-white">{course.title}</h2>
 
         <div className="mt-4 bg-zinc-700 h-2 rounded">
           <motion.div
