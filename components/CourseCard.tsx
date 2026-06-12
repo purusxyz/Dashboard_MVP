@@ -20,7 +20,7 @@ export default function CourseCard({ course }: { course: Course }) {
         from-purple-500/10 via-transparent to-blue-500/10 blur-xl" />
 
       <div className="relative z-10">
-        <Icon size={24} />
+        <Icon size={24} className="text-white" />
         <h2 className="mt-2 text-white">{course.title}</h2>
 
         <div className="mt-4 bg-zinc-700 h-2 rounded">
